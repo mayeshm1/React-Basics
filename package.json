@@ -4,8 +4,8 @@
   "description": "this is my first react project",
   "main": "app.js",
   "scripts": {
-    "start": "parcel app.js",
-    "build": "parcel build app.js"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "",
   "license": "ISC",
